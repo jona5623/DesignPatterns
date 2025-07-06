@@ -1,10 +1,9 @@
 Taller Formativo: Mejores Prácticas y Patrones de Diseño
 
-
 Este taller tiene como objetivo la mejora y refactorización de una aplicación existente, 
 aplicando mejores prácticas, principios SOLID y patrones de diseño para abordar requerimientos funcionales específicos y anticipar futuras expansiones.
 
-📝 Escenario del Problema
+Escenario del Problema
 Se requiere completar funcionalidades en un aplicativo de automóviles. El desafío principal radica en que la implementación actual presenta inconvenientes y es necesaria una solución robusta y escalable.
 
 Los requisitos funcionales son los siguientes:
