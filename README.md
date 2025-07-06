@@ -1,4 +1,6 @@
 Taller Formativo: Mejores Prácticas y Patrones de Diseño
+
+
 Este taller tiene como objetivo la mejora y refactorización de una aplicación existente, 
 aplicando mejores prácticas, principios SOLID y patrones de diseño para abordar requerimientos funcionales específicos y anticipar futuras expansiones.
 
